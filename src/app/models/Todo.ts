@@ -3,4 +3,3 @@ export class Todo {
     completed:boolean;
 }
 
-export interface Iss{}
